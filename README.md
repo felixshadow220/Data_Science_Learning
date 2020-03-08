@@ -8,3 +8,7 @@ The 3 main techniques that I used and practised in this Notebook:
 1. Groupby()
 2. Using ROC and AUC when evaluating the model
 3. a little bit of Data Visualization
+
+## IBM Data Science Professional Certificate (Final assignments)
+- Data Analysis with Python
+- Data Visualization with Python
