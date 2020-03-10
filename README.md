@@ -9,6 +9,12 @@ The 3 main techniques that I used and practised in this Notebook:
 2. Using ROC and AUC when evaluating the model
 3. a little bit of Data Visualization
 
+## Word Cloud for Arsenal Invincible Season
+Skills applied
+1. Word Cloud
+2. BeautifulSoup # scrap the information from https://www.arsenal.com/history/the-wenger-years/the-2004-invincibles
+3. Matplotlib # to draw the word cloud
+
 ## IBM Data Science Professional Certificate (Final assignments)
 - Data Analysis with Python
 - Data Visualization with Python
