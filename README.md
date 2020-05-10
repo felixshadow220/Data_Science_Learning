@@ -1,6 +1,9 @@
 # Data_Science_Learning
 Projects for transitting to a Data Science Career
 
+## Tweet Sentiment Extraction
+Kaggle Competition on Natural Language Processing
+
 ## Kobe Bryant's Shot Selection
 The First Project is a model built to classify whether Kobe made or missed the shot from a past Kaggle Competition. Using the Logistic Model, I achieved a 0.64771 when I submitted the result (although the competition was closed long time ago).
 
